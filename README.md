@@ -1,6 +1,7 @@
 # Triagem-de-Hospital
 Triagem-digital-de-Hospital
 
+Ex de impressão:
 Sistema de Atendimento Squad
 Médicos disponíveis: Dra. Ana Lima -> Dr. Bruno Costa -> Dra. Carla Ramos
 
